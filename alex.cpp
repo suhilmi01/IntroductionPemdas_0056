@@ -11,6 +11,8 @@ int main()
 
     //menampilkan isi string
     cout <<"andi" << endl;
+    //menampilkan isi integer
+    cout << 99 <<endl;
     //menampilkan isi dari variabel
     cout << umur << endl;
 }
